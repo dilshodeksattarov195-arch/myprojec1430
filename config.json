@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensncrypt",
+        "uuid": 4972110,
+        "checksum": "ltbb4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
